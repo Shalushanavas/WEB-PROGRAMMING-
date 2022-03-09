@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>details</title>
+</head>
+<body>
+	<a target="frames">
+		<a href="aboutme.html" name="about me">About me</a><br><br>
+		<a href="qualification.html "name="qualification">qualification</a><br><br>
+		<a href="hobbies.html" name="hobbies">hobbies</a>
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>hobbies</title>
+</head>
+<body>
+	<h1><center>My Hobbies are</center></h1>
+	<center>
+		<ul>singing</ul>
+		<ul>dancing</ul>
+		<ul>reading</ul>
+		<ul>watching tv</ul>
+	</center>
+
+</body>
+</html>
